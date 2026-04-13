@@ -19,7 +19,7 @@ Using Microsoft Excel, this project demonstrates how business intelligence techn
 
 ---
 
-## ataset Information  
+## Dataset Information  
 - **Dataset Name:** Amazon Sales Dataset (Excel)  
 - **Data Type:** Structured sales data  
 - **Key Attributes:** Product, Category, Sales, Region, Date  
